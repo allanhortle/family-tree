@@ -1,0 +1,18 @@
+{
+  "generator-bigdatr-startr": {
+    "promptValues": {
+      "name": "family-tree",
+      "description": "",
+      "version": "0.0.0",
+      "license": "UNLICENSED",
+      "private": false,
+      "author": "Allan Hortle",
+      "username": "allanhortle",
+      "nameConstant": "FAMILY_TREE",
+      "port": 3000,
+      "cognito": false,
+      "prerender": false,
+      "segment": false
+    }
+  }
+}
